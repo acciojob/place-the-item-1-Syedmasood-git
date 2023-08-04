@@ -4,7 +4,7 @@
 	margin:0px;
 	padding:0px;
 }
-.main-div{
+.holder{
 	width:100vw;
 	display:flex;
 	align-items:center;
@@ -21,7 +21,7 @@
 	background-color:red;
 	width:100px;
 	height:100px;
-	margin-right:10px;
+	margin-right:5px;
 }
 .blue{
 	background-color:blue;
